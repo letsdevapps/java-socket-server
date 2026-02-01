@@ -9,6 +9,8 @@ Demonstração de servidor via socket utilizando Java. Criado o loop principal p
 Teste via Telnet
 
     sudo apt-get install telnet
+    
+    telnet localhost 5000
 
     {"text": "Message from terminal telnet!"}
 
