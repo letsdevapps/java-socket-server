@@ -2,6 +2,8 @@
 
 Demonstração de servidor via socket utilizando Java. Criado o loop principal para o processo permanecer ativo e threads para os clientes enviarem os dados, conexão do cliente fica fora da thread por ja ser um processo auto-bloqueante.
 
+Utilizado como software-server em conjunto com seu par software-client [Java Socket Client](https://github.com/letsdevapps/java-socket-client)
+
 	localhost:5000
 
 ## Telnet
